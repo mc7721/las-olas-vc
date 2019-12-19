@@ -1,0 +1,48 @@
+{
+    "name": "Las Olas VC",
+    "description": "<p>Las Olas Venture Capital is a new Florida-based early stage fund that invests in startups in a variety of industries. Our mission is to find outstanding entrepreneurs in non-obvious places and maximize their impact by connecting them to networks of capital, talent, and customers in well-established startup ecosystems. We invest in extraordinary people who are building the future. This means technology that can redefine existing industries and create new ones. We call these people superheroes and transformers. They typically have asymmetrical insight into a particular industry and the superpowers for building products that create ascending user networks, which as a result drive transformational value.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28765-www-lasolasvc-com.jpg",
+    "tags": [
+        "have api",
+        "venture capital"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/las-olas-vc\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Las Olas VC",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28765-www-lasolasvc-com.jpg",
+            "humanURL": "http:\/\/www.lasolasvc.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/las-olas-vc-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/las-olas-vc-a-k-a-lovc"
+        },
+        {
+            "type": "Email",
+            "url": "buildthefuture@lasolasvc.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/lasolasvc"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.lasolasvc.com"
+        }
+    ]
+}
